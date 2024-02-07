@@ -1,6 +1,6 @@
 # Traffic-Light-STM32
 *This is a project for Microprocessor Engineering class (HUST 2023.1 semester)*
-<br><br>Simulate the behavior of traffic lights at a intersection with 2 directions South, West and pedestrians lights with time counter on a LCD16x02 display.
+<br><br>Simulate the behavior of traffic lights at a intersection with 2 directions South, West and pedestrians lights with STM32 and LEDs, include time counter on a LCD16x02 display.
 - South: red, yellow, green.
 - West: red, yellow, green.
 - Pedestrians lights: white, red.
